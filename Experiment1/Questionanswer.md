@@ -19,4 +19,9 @@ audiance[3].lenght is number of coloum in audiance[3]
 13. String.join() is a static utility method that combines multiple strings into a single string, using a specified separator (or "delimiter") between each element.
 14. done
 ### experiment 2
-1. 
+1. It depends entirely on the problem you are solving.  
+2. done
+3. done
+4. done
+5. done
+6. done
