@@ -25,3 +25,11 @@ audiance[3].lenght is number of coloum in audiance[3]
 4. done
 5. done
 6. done
+### experiment 3  
+1. done  
+2. Arrays.toString() is a static utility method in Java that gives you a nice, human-readable String representation of a one-dimensional (1D) array  
+3. the default value in int is 0  
+4. done  
+5. How to Make the Length for Each Row the Same? To make all rows have the same length, you must specify the column size in the initial declaration  
+Can the Array Length Be Modified? No. This is a fundamental rule in Java.
+
