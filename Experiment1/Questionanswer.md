@@ -6,6 +6,11 @@
 4. function of audiance.lenght is number of row in audiance variable.  
 audiance[0].lenght is number of coloum in audiance[0]  
 audiance[1].lenght is number of coloum in audiance[1]  
-audiance[2].lenght is number of coloum in audiance[2]
+audiance[2].lenght is number of coloum in audiance[2]  
 audiance[3].lenght is number of coloum in audiance[3]  
-5. 
+5. done
+6. done
+7. Advantages of the Enhanced for loop (foreach) Simpler and More Readable and Safer and Less Error-Prone, and disAdvantage is Disadvantages of the Enhanced for loop (foreach) No Access to the Index and Cannot Modify the Array/List  
+8. row in in audiance is 4
+9. coloum in audiance is 2
+10.  
