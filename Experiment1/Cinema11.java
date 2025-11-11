@@ -16,8 +16,8 @@ public class Cinema11 {
         System.out.printf("%s \t %s \n", audiance[2][0], audiance[2][1]);
         System.out.printf("%s \t %s \n", audiance[3][0], audiance[3][1]);
         System.out.println(audiance.length);
-        for (int i = 0; i < audiance.length; i++) {
-            System.out.println("Lenght of row"+(i+1)+": "+audiance[i].length);
+        for (String[] rowAudiance : audiance) {
+            System.out.println("Lenght of row: "+rowAudiance.length);
         }
 
     }
