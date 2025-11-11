@@ -13,4 +13,8 @@ audiance[3].lenght is number of coloum in audiance[3]
 7. Advantages of the Enhanced for loop (foreach) Simpler and More Readable and Safer and Less Error-Prone, and disAdvantage is Disadvantages of the Enhanced for loop (foreach) No Access to the Index and Cannot Modify the Array/List  
 8. row in in audiance is 4
 9. coloum in audiance is 2
-10.  
+10.  done
+11. done
+12. done
+13. String.join() is a static utility method that combines multiple strings into a single string, using a specified separator (or "delimiter") between each element.
+14. done
